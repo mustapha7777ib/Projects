@@ -68,7 +68,7 @@ body{
     margin-bottom: 12px;
 }
 
-/* Media Query for Mobile Devices */
+
 @media screen and (max-width: 768px) {
     #mainbox {
         width: 50%; 
@@ -81,7 +81,7 @@ body{
     }
 
     #photo img {
-        height: 80px; /* Adjust image size for smaller screens */
+        height: 80px;
         width: 80px;
     }
 }
